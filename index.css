@@ -25,6 +25,8 @@ main {
   align-content: center;
 }
 
+/*flex-basis can set size of elements also: flex-basis: 100px; flex-basis: --%, flex-basis: content;*/
+
 footer {
   background-color: #DAEEEF;
   height: 80px%;
