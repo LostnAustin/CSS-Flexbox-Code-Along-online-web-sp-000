@@ -15,8 +15,9 @@ main {
   background-color: #92C9D5;
   width: 100%;
   height: 100%;
-  flex-wrap: wrap;
-  flex-direction: column;
+  /*flex-wrap: wrap;
+  flex-direction: column; create new column for info when size of screen reduced*/
+  flex-flow: : wrap;
 }
 
 footer {
