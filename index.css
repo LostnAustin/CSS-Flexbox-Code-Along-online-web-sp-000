@@ -24,7 +24,8 @@ main {
   align-items: center;
   /*other align methods: flex-start,flex-end, stretch, baseline*/
   align-content: center;
-  /*flex: auto;*/
+  flex: 100px;
+}
 
 /*flex-basis can set size of elements also: flex-basis: 100px; flex-basis: --%, flex-basis: content;*/
 /*flex=grow specifies space the element takes within flex contianer*/
