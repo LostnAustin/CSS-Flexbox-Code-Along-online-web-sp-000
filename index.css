@@ -26,7 +26,7 @@ main {
 }
 
 /*flex-basis can set size of elements also: flex-basis: 100px; flex-basis: --%, flex-basis: content;*/
-
+/*flex=grow specifies space the element takes within flex contianer*/
 footer {
   background-color: #DAEEEF;
   height: 80px%;
@@ -45,4 +45,9 @@ footer {
   width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
+}
+
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
 }
