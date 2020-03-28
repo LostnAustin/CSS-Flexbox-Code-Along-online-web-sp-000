@@ -17,7 +17,7 @@ main {
   height: 100%;
   /*flex-wrap: wrap;
   flex-direction: column; create new column for info when size of screen reduced*/
-  flex-flow: : wrap;
+  flex-flow: : column wrap;
   justify-content: center;
   /*other justify-content properties: flex-start, flex-end, space-around, space-between;*/
 }
