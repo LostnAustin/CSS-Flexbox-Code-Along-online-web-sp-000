@@ -21,6 +21,7 @@ main {
   justify-content: center;
   /*other justify-content properties: flex-start, flex-end, space-around, space-between;*/
   align-items: center;
+  /*other align methods: flex-start,flex-end, stretch, baseline*/
 }
 
 footer {
