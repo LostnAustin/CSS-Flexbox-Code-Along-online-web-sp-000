@@ -18,6 +18,7 @@ main {
   /*flex-wrap: wrap;
   flex-direction: column; create new column for info when size of screen reduced*/
   flex-flow: : wrap;
+  justify-content: center;
 }
 
 footer {
